@@ -1,0 +1,486 @@
+CustomerSegment,ProductCategory,Region,StoreType,Channel,Year,Quarter,Month,TotalSales,AvgUnitPrice,AvgCostPrice,TotalQuantity,UniqueCustomers,TotalOrders
+retail,Furniture,south,mobile app,online,2025,1,2,23395.0,23395.0,166.35,5,1,1
+retail,Furniture,north,outlet,online,2025,1,2,8722.0,8722.0,65.11,10,1,1
+retail,Apparel,south,web,instore,2025,1,2,4503.0,4503.0,27.28,1,1,1
+retail,Electronics,west,web,online,2025,2,5,22324.0,22324.0,157.91,2,1,1
+wholesale,Furniture,west,mobile app,online,2025,2,5,43159.0,21579.5,141.18,11,2,2
+wholesale,Electronics,east,web,online,2025,2,5,44116.0,22058.0,154.12,15,2,2
+wholesale,Furniture,west,outlet,online,2025,1,2,5964.0,5964.0,43.5,5,1,1
+wholesale,Electronics,north,mobile app,online,2025,1,1,37438.0,18719.0,124.76500000000001,15,2,2
+wholesale,Electronics,east,flagship,online,2025,2,4,8147.0,8147.0,54.37,1,1,1
+retail,Electronics,west,mobile app,instore,2025,2,5,16756.0,16756.0,119.61,3,1,1
+wholesale,Grocery,north,outlet,instore,2025,1,2,24687.0,24687.0,207.26,10,1,1
+retail,Apparel,north,outlet,instore,2025,1,2,29444.0,14722.0,109.57,5,2,2
+wholesale,Apparel,west,mobile app,online,2025,2,4,8411.0,8411.0,59.7,3,1,1
+wholesale,Furniture,north,outlet,online,2025,2,4,21636.0,21636.0,155.24,10,1,1
+retail,Furniture,east,web,instore,2025,2,5,21299.0,21299.0,148.99,5,1,1
+wholesale,Grocery,east,flagship,online,2025,2,5,3011.0,3011.0,18.69,3,1,1
+retail,Grocery,south,flagship,instore,2025,2,5,23541.0,23541.0,151.38,2,1,1
+wholesale,Furniture,south,mobile app,instore,2025,1,2,16526.0,16526.0,104.97,3,1,1
+wholesale,Electronics,north,flagship,instore,2025,1,2,26368.0,26368.0,209.11,2,1,1
+wholesale,Apparel,east,mobile app,online,2025,3,7,8422.0,8422.0,69.58,5,1,1
+wholesale,Grocery,east,outlet,online,2025,2,4,25112.0,25112.0,188.29,3,1,1
+wholesale,Apparel,north,outlet,online,2025,2,4,3189.0,3189.0,24.83,2,1,1
+wholesale,Furniture,west,web,instore,2025,2,5,21302.0,21302.0,135.43,2,1,1
+wholesale,Electronics,south,web,instore,2025,2,4,27988.0,27988.0,170.18,1,1,1
+wholesale,Furniture,south,mobile app,online,2025,2,6,20639.0,20639.0,165.26,3,1,1
+retail,Electronics,south,web,instore,2025,1,1,19193.0,19193.0,131.8,1,1,1
+wholesale,Grocery,north,web,instore,2025,2,4,36419.0,18209.5,111.21000000000001,13,2,2
+retail,Apparel,south,flagship,online,2025,2,5,5819.0,5819.0,37.74,3,1,1
+retail,Electronics,south,mobile app,online,2025,2,6,12152.0,12152.0,83.1,2,1,1
+retail,Apparel,south,outlet,instore,2025,2,4,9496.0,9496.0,61.17,10,1,1
+wholesale,Furniture,west,outlet,online,2025,2,6,29295.0,29295.0,231.13,2,1,1
+wholesale,Apparel,east,outlet,online,2025,3,7,11724.0,11724.0,73.58,1,1,1
+wholesale,Electronics,south,flagship,online,2025,2,4,19631.0,19631.0,166.82,10,1,1
+retail,Electronics,south,outlet,online,2025,1,2,1817.0,1817.0,11.85,3,1,1
+wholesale,Furniture,west,mobile app,instore,2025,2,6,16071.0,16071.0,123.27,5,1,1
+wholesale,Grocery,west,flagship,instore,2025,2,5,10373.0,10373.0,63.95,1,1,1
+wholesale,Electronics,south,mobile app,instore,2025,2,5,11832.0,11832.0,89.03,2,1,1
+wholesale,Apparel,north,mobile app,online,2025,2,4,20824.0,10412.0,114.42,7,2,2
+retail,Grocery,east,outlet,instore,2025,2,6,19537.0,9768.5,64.87,15,2,2
+retail,Furniture,west,outlet,instore,2025,2,5,16259.0,16259.0,108.91,3,1,1
+retail,Furniture,north,web,instore,2025,2,6,728.0,728.0,48.76,2,1,1
+wholesale,Apparel,west,flagship,online,2025,2,5,800.0,800.0,59.27,5,1,1
+retail,Furniture,south,outlet,online,2025,3,7,25455.0,25455.0,196.96,3,1,1
+wholesale,Grocery,north,mobile app,online,2025,2,4,23952.0,23952.0,179.11,5,1,1
+retail,Grocery,east,web,instore,2025,2,5,40537.0,13512.333333333334,98.55333333333334,6,3,3
+wholesale,Electronics,north,outlet,online,2025,2,6,5109.0,5109.0,30.81,3,1,1
+wholesale,Grocery,west,outlet,instore,2025,2,5,11781.0,5890.5,81.16,4,2,2
+retail,Apparel,west,flagship,online,2025,1,3,10363.0,10363.0,75.51,1,1,1
+retail,Furniture,east,web,instore,2025,3,7,7347.0,7347.0,59.17,2,1,1
+wholesale,Apparel,west,flagship,instore,2025,2,6,22861.0,22861.0,150.06,3,1,1
+retail,Apparel,east,web,online,2025,2,6,6165.0,6165.0,43.24,2,1,1
+wholesale,Apparel,east,outlet,instore,2025,3,7,7806.0,7806.0,48.16,5,1,1
+wholesale,Apparel,east,flagship,online,2025,1,1,2059.0,2059.0,12.46,5,1,1
+retail,Grocery,south,outlet,instore,2025,1,3,5351.0,5351.0,37.13,1,1,1
+retail,Apparel,east,outlet,instore,2025,1,1,7255.0,7255.0,50.91,1,1,1
+wholesale,Electronics,north,web,instore,2025,1,2,2757.0,2757.0,21.94,10,1,1
+retail,Grocery,east,mobile app,instore,2025,2,4,16963.0,16963.0,136.65,5,1,1
+wholesale,Apparel,west,outlet,online,2025,2,4,37479.0,18739.5,135.515,6,2,2
+retail,Furniture,north,mobile app,online,2025,2,5,22114.0,22114.0,147.36,10,1,1
+retail,Apparel,east,flagship,instore,2025,2,5,360.0,360.0,23.62,1,1,1
+wholesale,Electronics,west,mobile app,instore,2025,2,4,578.0,578.0,4.87,1,1,1
+retail,Electronics,north,web,online,2025,2,4,722.0,722.0,60.65,2,1,1
+retail,Furniture,north,outlet,instore,2025,2,4,20533.0,20533.0,161.32,5,1,1
+wholesale,Electronics,south,web,online,2025,2,4,41269.0,13756.333333333334,96.72333333333334,14,3,3
+retail,Furniture,east,outlet,instore,2025,2,5,11452.0,5726.0,44.629999999999995,11,2,2
+wholesale,Grocery,east,flagship,instore,2025,3,7,28489.0,14244.5,115.51499999999999,8,2,2
+retail,Grocery,east,flagship,online,2025,1,2,27139.0,27139.0,166.19,3,1,1
+wholesale,Apparel,east,flagship,online,2025,2,4,3005.0,3005.0,24.75,3,1,1
+wholesale,Furniture,south,mobile app,instore,2025,2,6,2377.0,2377.0,14.85,10,1,1
+wholesale,Grocery,west,outlet,instore,2025,3,7,19917.0,19917.0,123.47,2,1,1
+wholesale,Grocery,north,flagship,instore,2025,2,6,3286.0,3286.0,20.67,5,1,1
+wholesale,Grocery,east,mobile app,online,2025,1,3,15448.0,15448.0,130.42,5,1,1
+wholesale,Grocery,west,flagship,online,2025,1,2,623.0,623.0,48.62,5,1,1
+retail,Apparel,west,mobile app,instore,2025,1,3,11151.0,11151.0,83.73,3,1,1
+retail,Grocery,west,web,online,2025,3,7,21727.0,21727.0,157.67,3,1,1
+wholesale,Furniture,west,outlet,online,2025,2,4,27107.0,13553.5,87.74499999999999,8,2,2
+retail,Electronics,north,flagship,instore,2025,1,1,22098.0,22098.0,172.3,2,1,1
+retail,Apparel,north,flagship,instore,2025,2,6,23182.0,23182.0,172.93,1,1,1
+wholesale,Apparel,south,web,online,2025,1,3,25686.0,25686.0,198.33,3,1,1
+wholesale,Grocery,east,flagship,instore,2025,2,6,11285.0,11285.0,81.35,10,1,1
+retail,Electronics,north,mobile app,online,2025,2,5,9797.0,9797.0,69.58,5,1,1
+wholesale,Apparel,south,flagship,instore,2025,2,6,8229.0,8229.0,53.13,1,1,1
+wholesale,Furniture,west,outlet,online,2025,2,5,7426.0,3713.0,27.36,10,2,2
+retail,Apparel,east,mobile app,online,2025,1,2,1719.0,1719.0,10.67,5,1,1
+retail,Electronics,west,outlet,online,2025,2,6,17346.0,17346.0,110.65,5,1,1
+retail,Apparel,east,outlet,instore,2025,1,3,6854.0,6854.0,53.24,5,1,1
+wholesale,Furniture,west,mobile app,online,2025,1,2,25064.0,25064.0,191.54,10,1,1
+retail,Apparel,west,web,online,2025,2,5,3432.0,3432.0,25.98,10,1,1
+retail,Furniture,west,flagship,instore,2025,1,3,14337.0,14337.0,89.7,2,1,1
+retail,Grocery,west,outlet,online,2025,3,7,24454.0,24454.0,176.93,10,1,1
+retail,Furniture,east,web,instore,2025,2,4,19063.0,19063.0,158.22,1,1,1
+wholesale,Furniture,east,mobile app,instore,2025,2,6,11182.0,11182.0,80.09,3,1,1
+wholesale,Apparel,west,flagship,instore,2025,1,3,15351.0,15351.0,126.35,2,1,1
+wholesale,Apparel,north,flagship,online,2025,2,4,23574.0,23574.0,162.7,5,1,1
+wholesale,Electronics,west,outlet,online,2025,2,4,7701.0,7701.0,47.06,1,1,1
+wholesale,Apparel,west,mobile app,instore,2025,1,3,10862.0,10862.0,92.16,5,1,1
+retail,Furniture,south,web,online,2025,1,3,21889.0,21889.0,174.99,2,1,1
+wholesale,Furniture,north,mobile app,instore,2025,1,1,8742.0,8742.0,56.58,1,1,1
+retail,Electronics,west,outlet,online,2025,2,5,23666.0,23666.0,189.11,5,1,1
+wholesale,Electronics,east,web,online,2025,2,6,18923.0,18923.0,124.89,3,1,1
+wholesale,Grocery,west,mobile app,online,2025,2,6,26469.0,26469.0,182.1,3,1,1
+wholesale,Electronics,west,outlet,instore,2025,2,6,4921.0,4921.0,31.74,10,1,1
+wholesale,Grocery,west,flagship,instore,2025,2,6,18499.0,18499.0,147.35,3,1,1
+retail,Apparel,north,outlet,online,2025,3,7,28305.0,28305.0,183.03,1,1,1
+wholesale,Apparel,east,web,online,2025,2,6,26487.0,26487.0,171.36,1,1,1
+retail,Apparel,east,mobile app,instore,2025,1,3,26868.0,26868.0,163.64,5,1,1
+wholesale,Grocery,south,flagship,online,2025,1,2,1202.0,1202.0,79.91,3,1,1
+wholesale,Furniture,north,outlet,online,2025,2,6,19141.0,19141.0,133.26,10,1,1
+wholesale,Apparel,east,web,online,2025,2,5,4623.0,4623.0,37.12,10,1,1
+retail,Furniture,east,mobile app,instore,2025,1,3,12912.0,12912.0,104.02,10,1,1
+wholesale,Grocery,west,outlet,instore,2025,2,4,8737.0,8737.0,59.15,3,1,1
+retail,Furniture,south,outlet,online,2025,2,6,29866.0,29866.0,218.7,1,1,1
+retail,Grocery,north,web,online,2025,2,5,6465.0,6465.0,44.42,3,1,1
+retail,Apparel,south,flagship,online,2025,2,6,29464.0,29464.0,188.76,2,1,1
+wholesale,Apparel,east,flagship,instore,2025,1,1,23383.0,23383.0,142.85,2,1,1
+retail,Electronics,north,web,online,2025,2,6,59462.0,29731.0,215.14999999999998,6,2,2
+retail,Electronics,east,mobile app,online,2025,2,4,8364.0,8364.0,69.8,10,1,1
+retail,Electronics,south,mobile app,instore,2025,2,5,1855.0,1855.0,14.44,5,1,1
+wholesale,Furniture,north,flagship,instore,2025,3,7,16338.0,16338.0,121.73,5,1,1
+wholesale,Electronics,east,mobile app,online,2025,1,3,5754.0,5754.0,46.65,1,1,1
+wholesale,Apparel,south,mobile app,instore,2025,2,5,2533.0,2533.0,19.6,10,1,1
+retail,Electronics,south,web,instore,2025,1,3,1168.0,1168.0,80.67,2,1,1
+retail,Apparel,west,mobile app,instore,2025,2,6,6886.0,6886.0,56.18,2,1,1
+retail,Furniture,west,mobile app,online,2025,2,5,6335.0,6335.0,53.17,1,1,1
+wholesale,Furniture,west,web,instore,2025,2,4,13705.0,13705.0,113.13,2,1,1
+retail,Furniture,south,flagship,online,2025,1,2,17691.0,17691.0,130.78,5,1,1
+wholesale,Apparel,south,flagship,instore,2025,2,4,23416.0,23416.0,142.89,2,1,1
+retail,Electronics,south,outlet,online,2025,2,4,8724.0,8724.0,65.32,3,1,1
+retail,Apparel,north,mobile app,instore,2025,3,7,26129.0,26129.0,162.52,10,1,1
+retail,Apparel,east,outlet,online,2025,2,4,15258.0,15258.0,106.67,2,1,1
+wholesale,Furniture,west,flagship,online,2025,1,2,29372.0,29372.0,238.98,10,1,1
+retail,Grocery,north,web,online,2025,2,6,21656.0,21656.0,133.7,5,1,1
+retail,Electronics,north,web,instore,2025,1,2,3743.0,3743.0,29.45,1,1,1
+retail,Furniture,north,outlet,instore,2025,1,2,23439.0,23439.0,167.53,5,1,1
+retail,Electronics,north,mobile app,online,2025,1,3,24797.0,24797.0,197.33,2,1,1
+retail,Grocery,west,mobile app,online,2025,1,1,29153.0,29153.0,225.41,2,1,1
+retail,Furniture,south,flagship,instore,2025,1,1,6981.0,6981.0,53.93,10,1,1
+wholesale,Electronics,east,flagship,instore,2025,2,4,31153.0,15576.5,120.69500000000001,2,2,2
+retail,Electronics,south,outlet,online,2025,1,3,3983.0,3983.0,27.37,10,1,1
+wholesale,Electronics,south,flagship,instore,2025,2,6,12113.0,12113.0,84.41,1,1,1
+wholesale,Grocery,east,outlet,instore,2025,2,5,23341.0,23341.0,195.65,10,1,1
+wholesale,Electronics,east,outlet,online,2025,1,2,29656.0,29656.0,205.28,2,1,1
+wholesale,Apparel,north,web,online,2025,1,2,12231.0,12231.0,83.94,5,1,1
+retail,Grocery,south,web,instore,2025,1,2,18726.0,18726.0,113.21,1,1,1
+retail,Furniture,west,flagship,instore,2025,1,1,29379.0,29379.0,232.16,10,1,1
+retail,Grocery,south,web,instore,2025,2,6,68978.0,17244.5,125.025,9,4,4
+wholesale,Electronics,south,web,instore,2025,2,6,26471.0,13235.5,98.96,12,2,2
+wholesale,Apparel,east,mobile app,online,2025,2,5,14208.0,14208.0,116.28,3,1,1
+wholesale,Grocery,south,mobile app,online,2025,1,2,35680.0,17840.0,129.175,5,2,2
+wholesale,Grocery,west,web,online,2025,1,3,7771.0,7771.0,64.24,1,1,1
+retail,Grocery,east,flagship,instore,2025,3,7,13362.0,13362.0,84.59,1,1,1
+wholesale,Grocery,north,outlet,online,2025,2,6,9986.0,9986.0,73.33,1,1,1
+retail,Apparel,west,outlet,instore,2025,2,5,5729.0,5729.0,45.04,2,1,1
+retail,Electronics,north,outlet,online,2025,1,1,6323.0,6323.0,52.29,10,1,1
+retail,Grocery,west,outlet,online,2025,1,1,39689.0,19844.5,144.005,13,2,2
+wholesale,Electronics,north,outlet,instore,2025,1,2,22799.0,22799.0,180.33,5,1,1
+wholesale,Electronics,east,mobile app,instore,2025,1,3,20134.0,20134.0,134.11,1,1,1
+wholesale,Grocery,south,web,instore,2025,1,1,20168.0,20168.0,166.1,10,1,1
+retail,Grocery,north,outlet,online,2025,2,4,4792.0,4792.0,38.33,5,1,1
+retail,Furniture,east,web,instore,2025,1,3,25322.0,12661.0,93.625,7,2,2
+wholesale,Apparel,east,mobile app,instore,2025,2,5,12393.0,6196.5,47.794999999999995,7,2,2
+retail,Electronics,south,web,online,2025,1,3,11321.0,11321.0,90.28,10,1,1
+wholesale,Apparel,west,web,instore,2025,1,2,9178.0,9178.0,69.84,3,1,1
+retail,Furniture,west,web,online,2025,3,7,15981.0,15981.0,116.82,3,1,1
+retail,Electronics,north,web,instore,2025,1,3,9196.0,9196.0,72.34,1,1,1
+wholesale,Grocery,south,outlet,instore,2025,2,5,12143.0,12143.0,84.69,2,1,1
+wholesale,Apparel,west,mobile app,instore,2025,1,1,11589.0,11589.0,70.06,2,1,1
+retail,Electronics,west,web,instore,2025,1,1,47119.0,23559.5,152.52,4,2,2
+retail,Electronics,south,flagship,online,2025,2,5,818.0,818.0,55.88,3,1,1
+retail,Furniture,south,outlet,instore,2025,1,2,5267.0,5267.0,35.04,1,1,1
+retail,Furniture,west,mobile app,instore,2025,1,2,27077.0,27077.0,166.27,5,1,1
+retail,Furniture,south,outlet,instore,2025,2,4,29669.0,29669.0,246.33,1,1,1
+wholesale,Electronics,north,mobile app,instore,2025,3,7,5262.0,5262.0,32.33,10,1,1
+retail,Electronics,south,flagship,online,2025,1,1,23716.0,23716.0,182.63,5,1,1
+wholesale,Grocery,south,web,instore,2025,3,7,28555.0,28555.0,177.18,3,1,1
+wholesale,Furniture,east,outlet,instore,2025,1,2,10726.0,10726.0,67.42,5,1,1
+retail,Apparel,north,flagship,online,2025,1,3,29462.0,29462.0,237.57,2,1,1
+retail,Apparel,east,outlet,online,2025,1,3,28385.0,28385.0,171.45,1,1,1
+retail,Electronics,east,outlet,online,2025,1,2,9842.0,9842.0,64.86,1,1,1
+wholesale,Furniture,east,web,online,2025,1,3,9964.0,9964.0,62.2,1,1,1
+retail,Furniture,west,flagship,online,2025,2,6,30647.0,15323.5,102.025,10,2,2
+retail,Grocery,north,mobile app,instore,2025,2,4,19434.0,19434.0,131.01,2,1,1
+retail,Apparel,west,flagship,instore,2025,2,4,30046.0,15023.0,105.85499999999999,4,2,2
+wholesale,Furniture,north,flagship,online,2025,1,2,15529.0,15529.0,94.57,1,1,1
+wholesale,Apparel,south,mobile app,instore,2025,2,4,23623.0,23623.0,165.33,5,1,1
+retail,Apparel,north,web,online,2025,2,4,27386.0,27386.0,170.79,10,1,1
+retail,Electronics,west,web,online,2025,3,7,29753.0,29753.0,190.09,5,1,1
+wholesale,Electronics,north,flagship,online,2025,1,3,47895.0,23947.5,173.265,20,2,2
+wholesale,Apparel,west,outlet,instore,2025,2,4,2707.0,2707.0,183.82,10,1,1
+wholesale,Grocery,east,mobile app,online,2025,3,7,8721.0,8721.0,54.33,2,1,1
+retail,Electronics,east,mobile app,online,2025,2,6,29609.0,29609.0,239.11,5,1,1
+wholesale,Apparel,south,web,online,2025,2,6,22316.0,22316.0,163.4,3,1,1
+wholesale,Furniture,south,flagship,instore,2025,2,6,10925.0,10925.0,68.88,10,1,1
+wholesale,Apparel,west,web,online,2025,1,2,19828.0,9914.0,74.19,3,2,2
+retail,Grocery,north,mobile app,online,2025,1,2,6781.0,6781.0,47.04,3,1,1
+retail,Grocery,west,outlet,online,2025,2,4,26469.0,26469.0,189.16,10,1,1
+retail,Electronics,south,web,instore,2025,2,6,22776.0,22776.0,156.54,2,1,1
+wholesale,Electronics,north,outlet,online,2025,3,7,261.0,261.0,19.73,3,1,1
+wholesale,Apparel,west,flagship,instore,2025,3,7,13834.0,13834.0,87.33,3,1,1
+wholesale,Apparel,east,flagship,instore,2025,2,5,1909.0,1909.0,13.54,5,1,1
+retail,Electronics,west,outlet,online,2025,2,4,19986.0,19986.0,147.91,5,1,1
+retail,Furniture,west,outlet,instore,2025,2,4,24046.0,24046.0,157.02,3,1,1
+wholesale,Apparel,east,mobile app,instore,2025,2,4,13494.0,13494.0,90.19,10,1,1
+wholesale,Furniture,north,mobile app,online,2025,2,5,2623.0,2623.0,179.32,1,1,1
+retail,Grocery,north,outlet,online,2025,3,7,24215.0,24215.0,179.03,3,1,1
+retail,Electronics,north,mobile app,online,2025,3,7,3729.0,3729.0,28.22,10,1,1
+retail,Furniture,east,flagship,online,2025,1,2,29514.0,29514.0,182.13,10,1,1
+wholesale,Electronics,east,web,online,2025,1,2,22878.0,22878.0,140.03,2,1,1
+retail,Apparel,south,mobile app,instore,2025,1,1,8912.0,8912.0,66.48,1,1,1
+retail,Grocery,south,outlet,online,2025,1,2,3807.0,3807.0,26.36,5,1,1
+retail,Furniture,east,mobile app,instore,2025,2,4,3686.0,3686.0,31.33,1,1,1
+wholesale,Furniture,west,mobile app,instore,2025,2,5,21647.0,21647.0,132.57,1,1,1
+retail,Electronics,west,outlet,instore,2025,1,2,27903.0,13951.5,93.775,11,1,2
+wholesale,Furniture,south,flagship,online,2025,2,5,2149.0,2149.0,17.66,2,1,1
+wholesale,Furniture,south,outlet,online,2025,1,1,6357.0,6357.0,49.11,2,1,1
+wholesale,Electronics,north,web,online,2025,1,2,2018.0,2018.0,15.42,10,1,1
+retail,Grocery,west,mobile app,instore,2025,2,6,9272.0,4636.0,116.45,12,2,2
+retail,Grocery,east,outlet,online,2025,2,4,22633.0,22633.0,139.71,2,1,1
+wholesale,Furniture,east,flagship,instore,2025,3,7,10634.0,10634.0,80.83,1,1,1
+retail,Grocery,east,web,instore,2025,1,2,15681.0,15681.0,107.37,2,1,1
+wholesale,Electronics,north,web,online,2025,2,5,10524.0,10524.0,66.57,1,1,1
+wholesale,Furniture,north,web,online,2025,3,7,901.0,901.0,73.23,3,1,1
+retail,Electronics,east,flagship,instore,2025,2,6,4809.0,4809.0,30.49,5,1,1
+wholesale,Grocery,east,flagship,instore,2025,2,5,9166.0,9166.0,59.92,10,1,1
+wholesale,Furniture,north,flagship,instore,2025,2,5,12195.0,12195.0,84.12,2,1,1
+retail,Grocery,east,flagship,instore,2025,1,2,45910.0,22955.0,181.55,4,2,2
+wholesale,Electronics,north,flagship,instore,2025,2,5,23979.0,23979.0,149.75,3,1,1
+wholesale,Apparel,south,flagship,instore,2025,1,2,12061.0,6030.5,38.415000000000006,15,2,2
+wholesale,Grocery,west,mobile app,instore,2025,1,3,1553.0,1553.0,112.53,1,1,1
+wholesale,Electronics,north,flagship,instore,2025,1,1,44298.0,22149.0,156.29500000000002,11,2,2
+wholesale,Grocery,north,flagship,online,2025,2,4,21211.0,21211.0,146.23,2,1,1
+wholesale,Furniture,north,web,instore,2025,3,7,5783.0,5783.0,36.84,5,1,1
+retail,Apparel,south,mobile app,online,2025,3,7,11026.0,11026.0,87.91,2,1,1
+wholesale,Apparel,west,web,online,2025,2,5,2798.0,2798.0,186.32,2,1,1
+retail,Furniture,east,web,instore,2025,1,1,30710.0,15355.0,113.41999999999999,6,2,2
+retail,Furniture,south,flagship,online,2025,3,7,27153.0,27153.0,207.62,2,1,1
+wholesale,Furniture,west,mobile app,online,2025,2,4,4478.0,4478.0,28.6,1,1,1
+wholesale,Apparel,south,outlet,online,2025,1,2,26507.0,26507.0,204.43,1,1,1
+wholesale,Electronics,north,mobile app,instore,2025,1,2,18454.0,18454.0,115.56,5,1,1
+retail,Furniture,north,mobile app,instore,2025,2,5,16894.0,16894.0,112.94,3,1,1
+retail,Grocery,south,mobile app,instore,2025,3,7,15603.0,15603.0,94.11,5,1,1
+retail,Furniture,west,mobile app,instore,2025,2,4,21104.0,21104.0,148.69,3,1,1
+wholesale,Electronics,east,web,instore,2025,1,2,4169.0,4169.0,27.57,3,1,1
+retail,Grocery,south,mobile app,instore,2025,2,5,2105.0,2105.0,162.78,10,1,1
+wholesale,Electronics,west,flagship,online,2025,1,3,8966.0,8966.0,63.62,1,1,1
+retail,Electronics,south,outlet,instore,2025,3,7,26723.0,26723.0,183.76,3,1,1
+wholesale,Grocery,west,web,online,2025,2,4,15909.0,15909.0,120.87,10,1,1
+retail,Furniture,north,flagship,instore,2025,1,3,24182.0,24182.0,166.63,2,1,1
+retail,Furniture,north,web,instore,2025,1,2,5986.0,5986.0,40.38,3,1,1
+retail,Electronics,east,outlet,instore,2025,2,5,9673.0,9673.0,71.05,2,1,1
+retail,Grocery,west,mobile app,instore,2025,1,2,19728.0,19728.0,139.68,10,1,1
+wholesale,Furniture,north,mobile app,online,2025,1,1,13312.0,13312.0,94.52,1,1,1
+wholesale,Apparel,west,outlet,online,2025,1,3,2538.0,2538.0,184.68,10,1,1
+retail,Furniture,west,outlet,instore,2025,1,2,29036.0,29036.0,214.51,1,1,1
+wholesale,Furniture,north,mobile app,instore,2025,2,6,20574.0,20574.0,157.5,3,1,1
+retail,Apparel,east,flagship,online,2025,1,2,2432.0,2432.0,166.84,1,1,1
+retail,Apparel,west,flagship,instore,2025,3,7,1269.0,1269.0,8.05,5,1,1
+wholesale,Furniture,west,mobile app,online,2025,1,3,17929.0,17929.0,110.03,10,1,1
+wholesale,Apparel,south,web,instore,2025,1,1,18305.0,18305.0,128.56,3,1,1
+wholesale,Apparel,east,outlet,instore,2025,2,6,7252.0,7252.0,59.9,1,1,1
+retail,Furniture,west,outlet,online,2025,3,7,11886.0,11886.0,75.81,2,1,1
+wholesale,Furniture,west,web,online,2025,1,1,2847.0,2847.0,21.84,2,1,1
+retail,Apparel,south,outlet,online,2025,2,6,3288.0,3288.0,20.3,10,1,1
+retail,Apparel,east,web,online,2025,2,5,8667.0,8667.0,68.03,5,1,1
+retail,Electronics,north,flagship,online,2025,2,6,1316.0,1316.0,86.88,10,1,1
+retail,Furniture,east,mobile app,online,2025,2,6,6385.0,6385.0,53.9,3,1,1
+wholesale,Apparel,north,mobile app,online,2025,2,6,12479.0,12479.0,90.04,1,1,1
+retail,Furniture,east,mobile app,online,2025,1,3,27326.0,27326.0,187.23,1,1,1
+wholesale,Grocery,west,mobile app,instore,2025,2,5,1789.0,1789.0,12.46,5,1,1
+retail,Furniture,west,flagship,instore,2025,2,4,31791.0,15895.5,101.99,7,2,2
+retail,Furniture,east,outlet,online,2025,1,3,20874.0,20874.0,147.98,1,1,1
+wholesale,Furniture,east,mobile app,online,2025,2,6,28488.0,28488.0,198.53,10,1,1
+retail,Apparel,north,web,online,2025,1,3,47834.0,23917.0,156.34,5,2,2
+wholesale,Furniture,west,mobile app,online,2025,3,7,18979.0,18979.0,152.97,2,1,1
+wholesale,Furniture,south,web,instore,2025,2,6,45760.0,22880.0,174.755,10,2,2
+wholesale,Furniture,east,mobile app,online,2025,2,4,13656.0,13656.0,113.81,10,1,1
+wholesale,Apparel,south,flagship,online,2025,2,4,15407.0,15407.0,100.24,3,1,1
+retail,Furniture,south,web,instore,2025,2,4,26448.0,26448.0,219.83,5,1,1
+retail,Electronics,east,mobile app,online,2025,2,5,20036.0,20036.0,161.19,10,1,1
+wholesale,Electronics,south,web,instore,2025,1,3,15497.0,15497.0,99.89,2,1,1
+wholesale,Apparel,north,web,online,2025,2,6,17471.0,17471.0,130.08,10,1,1
+wholesale,Electronics,west,mobile app,instore,2025,1,2,2442.0,2442.0,16.95,1,1,1
+wholesale,Electronics,north,mobile app,online,2025,2,5,22146.0,22146.0,157.18,10,1,1
+wholesale,Apparel,east,outlet,instore,2025,2,5,14851.0,14851.0,94.79,5,1,1
+wholesale,Electronics,west,web,online,2025,2,6,27967.0,27967.0,211.72,2,1,1
+wholesale,Apparel,north,web,online,2025,2,4,1597.0,1597.0,107.04,5,1,1
+wholesale,Furniture,west,outlet,online,2025,1,3,10742.0,10742.0,79.48,10,1,1
+retail,Furniture,east,mobile app,instore,2025,1,2,20722.0,20722.0,126.88,3,1,1
+wholesale,Grocery,south,flagship,online,2025,1,3,21488.0,21488.0,180.83,10,1,1
+wholesale,Furniture,west,mobile app,instore,2025,1,1,22672.0,22672.0,157.24,5,1,1
+retail,Electronics,north,web,online,2025,1,3,10375.0,10375.0,79.69,5,1,1
+wholesale,Electronics,east,mobile app,online,2025,2,5,16758.0,8379.0,60.235,4,2,2
+retail,Grocery,east,mobile app,instore,2025,2,5,15577.0,15577.0,107.75,2,1,1
+wholesale,Apparel,west,mobile app,instore,2025,3,7,18975.0,18975.0,122.44,2,1,1
+wholesale,Apparel,south,web,instore,2025,1,3,25898.0,25898.0,218.53,3,1,1
+wholesale,Furniture,east,outlet,online,2025,2,5,24532.0,24532.0,205.05,3,1,1
+wholesale,Furniture,north,outlet,online,2025,1,1,10627.0,10627.0,69.25,2,1,1
+wholesale,Furniture,south,outlet,online,2025,2,6,9767.0,9767.0,72.2,3,1,1
+wholesale,Furniture,south,outlet,online,2025,2,4,53185.0,26592.5,206.335,8,2,2
+retail,Furniture,east,outlet,instore,2025,1,2,26741.0,26741.0,171.17,2,1,1
+retail,Electronics,south,flagship,online,2025,3,7,638.0,638.0,4.35,10,1,1
+retail,Furniture,west,flagship,instore,2025,2,6,19133.0,19133.0,138.94,2,1,1
+retail,Apparel,west,mobile app,instore,2025,2,5,12881.0,12881.0,79.74,3,1,1
+retail,Electronics,south,outlet,online,2025,2,5,5327.0,5327.0,41.94,2,1,1
+retail,Apparel,north,outlet,online,2025,1,3,22932.0,22932.0,166.93,10,1,1
+wholesale,Grocery,west,outlet,online,2025,2,4,30158.0,15079.0,114.41,12,2,2
+retail,Furniture,south,flagship,online,2025,1,1,25674.0,12837.0,161.53500000000003,11,2,2
+retail,Grocery,west,web,instore,2025,2,5,29159.0,29159.0,220.54,10,1,1
+retail,Furniture,east,flagship,instore,2025,3,7,14531.0,14531.0,91.75,10,1,1
+retail,Grocery,east,flagship,online,2025,2,6,15538.0,15538.0,103.69,1,1,1
+retail,Furniture,west,flagship,instore,2025,1,2,24937.0,12468.5,91.69999999999999,8,2,2
+retail,Apparel,west,outlet,instore,2025,2,4,28507.0,28507.0,179.3,2,1,1
+retail,Grocery,west,flagship,instore,2025,1,1,1319.0,1319.0,9.47,2,1,1
+wholesale,Electronics,north,outlet,instore,2025,1,3,29435.0,29435.0,238.22,10,1,1
+wholesale,Furniture,north,mobile app,online,2025,1,2,21278.0,21278.0,130.76,1,1,1
+wholesale,Furniture,south,mobile app,online,2025,2,4,48986.0,16328.666666666666,125.05000000000001,13,3,3
+retail,Electronics,north,mobile app,online,2025,2,6,52147.0,26073.5,193.035,6,2,2
+wholesale,Electronics,south,mobile app,instore,2025,1,2,32202.0,16101.0,116.035,15,2,2
+retail,Grocery,west,outlet,instore,2025,2,4,23662.0,11831.0,132.81,15,2,2
+retail,Grocery,north,outlet,online,2025,2,6,5155.0,5155.0,33.87,5,1,1
+retail,Electronics,south,web,online,2025,2,5,25521.0,25521.0,185.57,2,1,1
+wholesale,Apparel,east,outlet,instore,2025,1,3,1336.0,1336.0,8.66,3,1,1
+wholesale,Grocery,east,flagship,online,2025,1,3,2153.0,2153.0,150.27,2,1,1
+wholesale,Furniture,east,outlet,instore,2025,1,3,2269.0,2269.0,13.65,1,1,1
+wholesale,Grocery,south,mobile app,online,2025,2,4,29574.0,29574.0,188.65,2,1,1
+wholesale,Apparel,north,flagship,online,2025,2,6,1109.0,1109.0,88.11,3,1,1
+wholesale,Apparel,north,mobile app,online,2025,1,2,14022.0,14022.0,104.23,10,1,1
+wholesale,Furniture,south,web,online,2025,1,1,2331.0,2331.0,16.73,5,1,1
+wholesale,Grocery,south,outlet,instore,2025,2,4,596.0,596.0,4.58,2,1,1
+retail,Apparel,east,mobile app,online,2025,2,5,20485.0,10242.5,81.28,6,2,2
+wholesale,Furniture,west,outlet,instore,2025,2,4,20299.0,20299.0,172.51,10,1,1
+retail,Electronics,west,flagship,online,2025,2,5,15444.0,15444.0,123.97,5,1,1
+wholesale,Apparel,east,mobile app,online,2025,1,2,19958.0,19958.0,162.04,10,1,1
+wholesale,Apparel,north,web,online,2025,3,7,28304.0,28304.0,203.2,10,1,1
+retail,Furniture,west,mobile app,online,2025,1,2,12629.0,12629.0,93.7,3,1,1
+wholesale,Furniture,west,flagship,online,2025,2,6,22627.0,11313.5,93.5,13,2,2
+wholesale,Electronics,north,web,online,2025,2,6,950.0,950.0,76.0,2,1,1
+wholesale,Furniture,south,mobile app,online,2025,1,1,15751.0,15751.0,125.53,1,1,1
+wholesale,Grocery,east,mobile app,online,2025,2,5,1674.0,1674.0,11.29,2,1,1
+wholesale,Furniture,west,mobile app,online,2025,2,6,4489.0,4489.0,31.68,3,1,1
+wholesale,Furniture,east,flagship,online,2025,1,1,2385.0,2385.0,179.98,3,1,1
+retail,Furniture,west,outlet,instore,2025,2,6,22155.0,22155.0,141.8,5,1,1
+wholesale,Apparel,north,flagship,online,2025,2,5,16998.0,16998.0,118.99,1,1,1
+retail,Electronics,west,mobile app,instore,2025,1,1,12769.0,12769.0,81.9,5,1,1
+wholesale,Furniture,south,web,instore,2025,2,5,4311.0,4311.0,33.38,1,1,1
+retail,Grocery,east,outlet,instore,2025,3,7,12692.0,12692.0,90.43,10,1,1
+wholesale,Grocery,north,outlet,online,2025,1,2,28716.0,28716.0,196.67,2,1,1
+wholesale,Apparel,south,flagship,online,2025,1,2,14613.0,14613.0,95.65,2,1,1
+wholesale,Furniture,south,web,online,2025,1,3,16288.0,16288.0,108.74,5,1,1
+retail,Electronics,east,flagship,online,2025,2,5,2074.0,2074.0,14.37,2,1,1
+retail,Grocery,south,outlet,instore,2025,1,1,7914.0,7914.0,60.27,3,1,1
+wholesale,Apparel,west,web,instore,2025,1,1,18719.0,18719.0,154.83,5,1,1
+wholesale,Apparel,west,outlet,instore,2025,1,3,22463.0,22463.0,149.17,1,1,1
+retail,Furniture,west,mobile app,online,2025,1,1,28291.0,28291.0,228.51,2,1,1
+wholesale,Grocery,east,flagship,instore,2025,1,1,2464.0,2464.0,19.52,2,1,1
+wholesale,Furniture,east,outlet,online,2025,2,4,6041.0,6041.0,37.05,5,1,1
+wholesale,Apparel,east,flagship,online,2025,3,7,20603.0,20603.0,167.03,5,1,1
+retail,Grocery,east,web,online,2025,1,2,15758.0,15758.0,105.41,2,1,1
+retail,Apparel,south,web,online,2025,2,5,8571.0,8571.0,64.62,2,1,1
+wholesale,Grocery,south,outlet,instore,2025,2,6,18154.0,18154.0,115.47,2,1,1
+retail,Electronics,north,outlet,online,2025,2,5,28845.0,28845.0,225.42,10,1,1
+wholesale,Furniture,north,outlet,online,2025,1,2,10259.0,10259.0,76.97,2,1,1
+retail,Grocery,north,flagship,online,2025,2,5,25532.0,25532.0,203.4,2,1,1
+wholesale,Electronics,north,outlet,instore,2025,1,1,6198.0,6198.0,44.75,5,1,1
+wholesale,Electronics,north,flagship,online,2025,2,5,12885.0,12885.0,102.59,2,1,1
+retail,Apparel,east,web,instore,2025,2,6,14925.0,14925.0,121.87,3,1,1
+wholesale,Electronics,west,flagship,online,2025,2,5,2071.0,2071.0,17.04,1,1,1
+retail,Electronics,north,web,instore,2025,2,4,15716.0,7858.0,59.555,3,2,2
+wholesale,Apparel,north,outlet,online,2025,1,3,28791.0,28791.0,221.2,3,1,1
+retail,Grocery,north,flagship,online,2025,1,3,11417.0,5708.5,42.585,3,2,2
+wholesale,Apparel,east,web,instore,2025,1,3,11801.0,11801.0,95.08,2,1,1
+retail,Furniture,south,outlet,online,2025,1,3,17516.0,17516.0,114.28,3,1,1
+wholesale,Grocery,south,web,instore,2025,1,2,5038.0,5038.0,37.08,2,1,1
+wholesale,Grocery,north,mobile app,instore,2025,1,2,2735.0,2735.0,188.09,10,1,1
+retail,Grocery,south,web,online,2025,1,3,7716.0,7716.0,64.58,2,1,1
+wholesale,Grocery,north,flagship,instore,2025,1,3,21234.0,21234.0,138.85,3,1,1
+wholesale,Electronics,south,outlet,instore,2025,1,1,3918.0,3918.0,25.19,2,1,1
+wholesale,Furniture,south,web,online,2025,2,5,9585.0,9585.0,68.92,3,1,1
+wholesale,Grocery,north,outlet,instore,2025,1,3,6131.0,6131.0,48.87,2,1,1
+retail,Grocery,south,flagship,online,2025,1,2,47326.0,23663.0,169.91500000000002,10,2,2
+wholesale,Grocery,east,web,online,2025,1,2,7818.0,7818.0,54.54,3,1,1
+wholesale,Apparel,east,outlet,online,2025,1,1,24873.0,24873.0,166.96,2,1,1
+retail,Electronics,south,outlet,instore,2025,1,1,13858.0,13858.0,109.09,10,1,1
+retail,Furniture,east,outlet,instore,2025,2,4,4326.0,4326.0,33.73,5,1,1
+wholesale,Grocery,west,outlet,instore,2025,2,6,2928.0,1464.0,101.75999999999999,20,2,2
+wholesale,Apparel,south,web,online,2025,1,2,25688.0,25688.0,217.04,1,1,1
+retail,Grocery,west,outlet,online,2025,1,2,17698.0,17698.0,138.59,1,1,1
+retail,Grocery,east,flagship,instore,2025,2,5,28557.0,28557.0,237.07,5,1,1
+retail,Grocery,west,mobile app,instore,2025,2,5,50921.0,16973.666666666668,131.93999999999997,15,3,3
+retail,Furniture,east,outlet,online,2025,1,1,2349.0,2349.0,169.02,1,1,1
+wholesale,Apparel,west,outlet,instore,2025,1,1,5925.0,5925.0,50.05,1,1,1
+wholesale,Apparel,west,mobile app,instore,2025,2,6,28529.0,28529.0,214.46,2,1,1
+wholesale,Furniture,east,mobile app,online,2025,2,5,27603.0,27603.0,217.56,10,1,1
+retail,Apparel,east,flagship,online,2025,2,6,43877.0,21938.5,167.06,7,2,2
+wholesale,Furniture,south,mobile app,instore,2025,3,7,16206.0,16206.0,111.69,3,1,1
+wholesale,Furniture,west,flagship,instore,2025,2,4,14582.0,14582.0,123.5,3,1,1
+wholesale,Grocery,south,outlet,instore,2025,1,1,2769.0,2769.0,214.58,2,1,1
+wholesale,Electronics,north,flagship,instore,2025,2,6,21168.0,21168.0,144.4,3,1,1
+retail,Electronics,east,outlet,instore,2025,1,3,9073.0,9073.0,54.55,1,1,1
+retail,Apparel,west,outlet,instore,2025,1,3,6991.0,6991.0,53.65,5,1,1
+wholesale,Grocery,south,outlet,online,2025,2,6,762.0,762.0,4.94,10,1,1
+retail,Furniture,west,mobile app,instore,2025,2,6,21718.0,21718.0,174.11,2,1,1
+wholesale,Apparel,south,flagship,online,2025,2,5,15151.0,15151.0,93.41,1,1,1
+wholesale,Furniture,north,flagship,online,2025,1,3,13964.0,4654.666666666667,38.39333333333333,8,3,3
+wholesale,Apparel,west,flagship,instore,2025,1,2,2931.0,2931.0,17.93,3,1,1
+wholesale,Grocery,west,mobile app,online,2025,2,4,6697.0,3348.5,26.735,6,2,2
+wholesale,Apparel,east,flagship,instore,2025,2,4,25612.0,25612.0,214.95,2,1,1
+retail,Grocery,north,flagship,instore,2025,2,5,8326.0,8326.0,63.34,10,1,1
+retail,Electronics,east,web,online,2025,2,5,18849.0,18849.0,137.19,2,1,1
+retail,Electronics,east,mobile app,instore,2025,1,2,1152.0,1152.0,9.45,1,1,1
+retail,Grocery,north,mobile app,online,2025,2,5,43352.0,21676.0,134.60000000000002,7,2,2
+wholesale,Electronics,east,flagship,instore,2025,1,1,4215.0,4215.0,27.48,3,1,1
+wholesale,Apparel,south,outlet,online,2025,2,5,15168.0,15168.0,101.88,5,1,1
+wholesale,Electronics,east,mobile app,online,2025,2,6,20594.0,20594.0,151.37,10,1,1
+wholesale,Apparel,north,flagship,instore,2025,2,5,236.0,236.0,15.13,10,1,1
+wholesale,Apparel,east,web,instore,2025,2,4,26365.0,13182.5,85.895,6,2,2
+wholesale,Furniture,east,flagship,online,2025,2,6,12224.0,12224.0,94.45,1,1,1
+retail,Apparel,south,outlet,instore,2025,2,6,27142.0,13571.0,149.76999999999998,4,2,2
+retail,Grocery,east,web,instore,2025,3,7,17455.0,17455.0,120.23,2,1,1
+retail,Furniture,north,outlet,online,2025,1,3,6487.0,6487.0,45.4,3,1,1
+retail,Grocery,north,outlet,online,2025,2,5,6926.0,6926.0,44.87,3,1,1
+retail,Apparel,north,mobile app,online,2025,2,5,32711.0,16355.5,132.175,12,2,2
+wholesale,Grocery,west,flagship,online,2025,2,5,8008.0,8008.0,59.76,3,1,1
+retail,Furniture,south,outlet,online,2025,2,4,26043.0,26043.0,162.26,5,1,1
+wholesale,Electronics,north,outlet,online,2025,1,2,8672.0,8672.0,58.59,5,1,1
+retail,Grocery,north,flagship,instore,2025,1,3,23501.0,23501.0,179.47,1,1,1
+wholesale,Electronics,east,mobile app,instore,2025,2,4,10648.0,10648.0,75.53,10,1,1
+retail,Grocery,south,web,instore,2025,1,1,20356.0,20356.0,123.04,1,1,1
+wholesale,Furniture,north,flagship,online,2025,2,6,20184.0,20184.0,144.41,3,1,1
+wholesale,Furniture,south,web,instore,2025,3,7,22931.0,22931.0,178.13,1,1,1
+retail,Grocery,north,flagship,online,2025,3,7,25918.0,25918.0,156.27,10,1,1
+retail,Electronics,east,flagship,instore,2025,1,3,273.0,273.0,16.54,10,1,1
+wholesale,Electronics,north,mobile app,online,2025,1,2,31697.0,15848.5,125.53,11,2,2
+wholesale,Grocery,west,web,online,2025,1,2,25878.0,25878.0,208.39,3,1,1
+wholesale,Apparel,south,mobile app,online,2025,3,7,8594.0,8594.0,71.04,3,1,1
+wholesale,Furniture,east,flagship,online,2025,3,7,1807.0,1807.0,11.81,3,1,1
+wholesale,Furniture,east,mobile app,instore,2025,2,5,6239.0,6239.0,40.08,5,1,1
+retail,Apparel,north,web,instore,2025,2,4,44908.0,22454.0,160.695,12,2,2
+wholesale,Apparel,east,mobile app,online,2025,1,1,20194.0,20194.0,122.01,10,1,1
+wholesale,Furniture,south,flagship,instore,2025,1,3,38997.0,19498.5,161.2,8,2,2
+retail,Apparel,east,flagship,online,2025,2,4,37139.0,18569.5,118.405,3,2,2
+wholesale,Apparel,east,flagship,instore,2025,2,6,6549.0,6549.0,43.39,2,1,1
+retail,Furniture,south,web,online,2025,2,4,15221.0,15221.0,128.25,2,1,1
+wholesale,Furniture,east,web,online,2025,2,4,17638.0,17638.0,120.34,10,1,1
+wholesale,Apparel,east,mobile app,instore,2025,3,7,28488.0,28488.0,189.88,5,1,1
+wholesale,Grocery,east,mobile app,online,2025,2,6,28326.0,28326.0,175.6,1,1,1
+retail,Grocery,east,web,instore,2025,2,6,1085.0,1085.0,67.3,2,1,1
+retail,Electronics,west,mobile app,instore,2025,1,3,29215.0,29215.0,237.92,3,1,1
+wholesale,Furniture,south,outlet,instore,2025,3,7,11994.0,11994.0,85.73,2,1,1
+retail,Furniture,east,mobile app,online,2025,1,2,49339.0,24669.5,180.89499999999998,7,2,2
+retail,Grocery,east,outlet,instore,2025,1,1,19374.0,19374.0,163.62,3,1,1
+retail,Electronics,east,flagship,instore,2025,1,2,24768.0,24768.0,183.75,2,1,1
+retail,Apparel,west,flagship,instore,2025,1,1,17724.0,17724.0,125.86,1,1,1
+retail,Grocery,north,web,instore,2025,1,3,15514.0,15514.0,115.25,2,1,1
+wholesale,Electronics,east,outlet,instore,2025,3,7,11703.0,11703.0,88.48,2,1,1
+retail,Electronics,east,outlet,online,2025,2,5,21372.0,21372.0,172.79,2,1,1
+retail,Apparel,east,web,instore,2025,2,5,28854.0,14427.0,111.245,6,2,2
+wholesale,Apparel,north,web,online,2025,1,1,24495.0,24495.0,203.77,3,1,1
+wholesale,Apparel,south,mobile app,instore,2025,2,6,27104.0,27104.0,203.24,2,1,1
+wholesale,Grocery,south,web,online,2025,1,1,1406.0,1406.0,85.66,10,1,1
+retail,Furniture,south,flagship,instore,2025,1,3,14845.0,14845.0,121.58,10,1,1
+wholesale,Furniture,north,mobile app,online,2025,2,4,12804.0,12804.0,102.04,1,1,1
+wholesale,Apparel,west,web,instore,2025,2,5,13545.0,6772.5,51.945,5,2,2
+retail,Apparel,south,web,instore,2025,2,5,26606.0,26606.0,209.43,5,1,1
+retail,Furniture,north,web,online,2025,1,2,91.0,91.0,6.75,2,1,1
+wholesale,Grocery,south,web,online,2025,1,2,15255.0,15255.0,124.28,10,1,1
+wholesale,Apparel,north,mobile app,instore,2025,1,3,21793.0,21793.0,168.41,2,1,1
+retail,Furniture,north,outlet,instore,2025,1,1,229.0,229.0,13.77,2,1,1
+retail,Furniture,south,web,online,2025,1,1,14239.0,14239.0,117.05,1,1,1
+wholesale,Grocery,south,web,instore,2025,2,4,2654.0,2654.0,18.62,1,1,1
+wholesale,Apparel,east,web,online,2025,1,2,24757.0,24757.0,187.36,2,1,1
+retail,Furniture,west,mobile app,online,2025,2,4,2712.0,2712.0,20.69,3,1,1
+wholesale,Apparel,west,mobile app,online,2025,2,6,15532.0,15532.0,100.38,1,1,1
+wholesale,Electronics,east,outlet,instore,2025,2,6,367.0,367.0,29.46,1,1,1
+wholesale,Grocery,east,mobile app,online,2025,1,2,17413.0,17413.0,114.04,5,1,1
+wholesale,Apparel,east,web,online,2025,2,4,14738.0,14738.0,109.96,2,1,1
+retail,Grocery,north,outlet,instore,2025,2,4,2129.0,1064.5,8.040000000000001,8,2,2
+retail,Furniture,west,flagship,online,2025,2,4,1982.0,1982.0,15.2,3,1,1
+retail,Furniture,west,mobile app,instore,2025,2,5,23192.0,23192.0,175.68,5,1,1
+wholesale,Electronics,east,flagship,online,2025,1,3,22892.0,22892.0,161.81,3,1,1
+retail,Grocery,south,web,online,2025,1,2,973.0,973.0,7.83,10,1,1
+retail,Furniture,east,mobile app,instore,2025,2,5,24383.0,24383.0,199.45,5,1,1
+wholesale,Grocery,north,outlet,instore,2025,2,4,12475.0,12475.0,96.97,2,1,1
+retail,Electronics,south,flagship,online,2025,2,6,8759.0,8759.0,59.87,2,1,1
+retail,Furniture,west,flagship,online,2025,1,2,16014.0,16014.0,96.98,5,1,1
